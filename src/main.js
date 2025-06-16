@@ -14,4 +14,4 @@ document.addEventListener("DOMContentLoaded", () => {
       btn.innerText = `count is ${count}`;
     });
   }
-});
+})
