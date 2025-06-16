@@ -15,7 +15,3 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
-
-`
-
-setupCounter(document.querySelector('#counter'))
